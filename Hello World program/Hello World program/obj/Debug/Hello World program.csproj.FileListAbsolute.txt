@@ -1,1 +1,2 @@
 D:\Git\MysecondProject\Hello World program\Hello World program\bin\Debug\Hello World program.exe.config
+D:\Git1\MysecondProject\Hello World program\Hello World program\bin\Debug\Hello World program.exe.config
